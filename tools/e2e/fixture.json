@@ -1,0 +1,416 @@
+{
+ "site_content": [
+  {
+   "id": 1,
+   "data": {
+    "version": 2,
+    "business": {
+     "name": "Café Dib",
+     "phone": "0559 82 67 81",
+     "phone_intl": "+213559826781",
+     "address": "Bd Pasteur, Tlemcen 13000, Algérie",
+     "maps_url": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Dib+Bd+Pasteur+Tlemcen",
+     "open": true,
+     "closed_text": "La maison est momentanément fermée. Appelez-nous pour en savoir plus."
+    },
+    "hero": {
+     "kicker": "Café · Pizzeria · Crèmerie — Tlemcen",
+     "title": "Café *Dib*",
+     "tagline": "Des salés, des sucrés, du café et des pizzas : un espace pour les couples, les familles et les célibataires."
+    },
+    "about": {
+     "title": "Un café, des pizzas, *des douceurs*",
+     "text": "Café Dib est un coffee shop de Tlemcen, boulevard Pasteur : on y vient pour un café, une pizza, un plat salé ou une pâtisserie, en couple, en famille ou en solo.",
+     "text2": "Au comptoir, des gâteaux et des fruits ; en salle, des pizzas servies sur planche de bois et de grands verres de jus.",
+     "quote": "coffeeshop DIB un espace couples , familles , célibataires , nous servons des Salés , Sucrés , pizzeria cafétéria crémerie ouverte à Tlemcen"
+    },
+    "specialities": [
+     "Café",
+     "Crèmerie",
+     "Pizzeria",
+     "Salés & sucrés",
+     "Jus de fruits",
+     "Tlemcen · Bd Pasteur"
+    ],
+    "menu": {
+     "note": "La carte détaillée et les tarifs ne sont pas encore publiés en ligne : demandez à l’équipe ou appelez-nous.",
+     "currency": "DA",
+     "categories": [
+      {
+       "id": "sales",
+       "title": "Les salés",
+       "desc": "Pizzeria : des pizzas garnies, servies sur planche de bois, et d’autres plats salés.",
+       "items": [
+        {
+         "name": "ARTICLE DE TEST (fixture)",
+         "desc": "exemple non publié",
+         "price": "000"
+        }
+       ]
+      },
+      {
+       "id": "sucres",
+       "title": "Les sucrés",
+       "desc": "Crèmerie et pâtisserie : gâteaux, cakes et desserts au comptoir.",
+       "items": []
+      },
+      {
+       "id": "boissons",
+       "title": "Les boissons",
+       "desc": "Cafétéria : le café, et de grands verres de jus servis au comptoir.",
+       "items": []
+      }
+     ]
+    },
+    "hours": [
+     {
+      "day": "Samedi",
+      "open": "06:00",
+      "close": "00:00"
+     },
+     {
+      "day": "Dimanche",
+      "open": "06:00",
+      "close": "00:00"
+     },
+     {
+      "day": "Lundi",
+      "open": "06:00",
+      "close": "00:00"
+     },
+     {
+      "day": "Mardi",
+      "open": "06:00",
+      "close": "00:00"
+     },
+     {
+      "day": "Mercredi",
+      "open": "06:00",
+      "close": "00:00"
+     },
+     {
+      "day": "Jeudi",
+      "open": "06:00",
+      "close": "00:00"
+     },
+     {
+      "day": "Vendredi",
+      "open": "12:00",
+      "close": "00:00"
+     }
+    ],
+    "booking": {
+     "open": true,
+     "note": "Choisissez le jour, l’heure et le nombre de personnes : nous vous rappelons pour confirmer la table."
+    },
+    "reviews": [
+     {
+      "author": "Reda Lyes Rabah",
+      "text": "L'un des meilleurs café a Tlemcen , acceuil chaleureux, classe et sympa, avec une équipe très aimable et professionnel ! Je recommande vivement !"
+     },
+     {
+      "author": "muss maxi",
+      "text": "Excellente pizza. Personnel très accueillant service rapide, propreté et qualité. Bonne continuation"
+     },
+     {
+      "author": "Mail is",
+      "text": "Un café complet le meilleur de Tlemcen"
+     }
+    ],
+    "rating": {
+     "value": "4,3",
+     "count": "36"
+    },
+    "photos": {
+     "salle": {
+      "label": "Salle (photo du café)",
+      "alt": "La salle de Café Dib, étagères éclairées et comptoir à pâtisseries",
+      "src": ""
+     },
+     "comptoir": {
+      "label": "Comptoir (photo du café)",
+      "alt": "Le comptoir de Café Dib avec fruits et presse-jus",
+      "src": ""
+     },
+     "pizzas": {
+      "label": "Pizzas (photo du café)",
+      "alt": "Pizzas servies sur planche de bois à Café Dib",
+      "src": ""
+     },
+     "gateau": {
+      "label": "Gâteau (photo du café)",
+      "alt": "Gâteau au comptoir de Café Dib",
+      "src": ""
+     },
+     "jus-fruits": {
+      "label": "Jus de fruits (photo du café)",
+      "alt": "Boissons aux fruits servies à Café Dib",
+      "src": ""
+     },
+     "jus-rouges": {
+      "label": "Jus rouges (photo du café)",
+      "alt": "Deux grands verres de jus rouges au comptoir de Café Dib",
+      "src": ""
+     }
+    }
+   }
+  }
+ ],
+ "site_content_history": [
+  {
+   "id": 3,
+   "saved_at": "2026-10-14T12:00:00Z",
+   "data": {
+    "version": 2,
+    "business": {
+     "name": "Café Dib",
+     "phone": "0559 82 67 81",
+     "phone_intl": "+213559826781",
+     "address": "Bd Pasteur, Tlemcen 13000, Algérie",
+     "maps_url": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Dib+Bd+Pasteur+Tlemcen",
+     "open": true,
+     "closed_text": "La maison est momentanément fermée. Appelez-nous pour en savoir plus."
+    },
+    "hero": {
+     "kicker": "Café · Pizzeria · Crèmerie — Tlemcen",
+     "title": "Café *Dib*",
+     "tagline": "Des salés, des sucrés, du café et des pizzas : un espace pour les couples, les familles et les célibataires."
+    },
+    "about": {
+     "title": "Un café, des pizzas, *des douceurs*",
+     "text": "Café Dib est un coffee shop de Tlemcen, boulevard Pasteur : on y vient pour un café, une pizza, un plat salé ou une pâtisserie, en couple, en famille ou en solo.",
+     "text2": "Au comptoir, des gâteaux et des fruits ; en salle, des pizzas servies sur planche de bois et de grands verres de jus.",
+     "quote": "coffeeshop DIB un espace couples , familles , célibataires , nous servons des Salés , Sucrés , pizzeria cafétéria crémerie ouverte à Tlemcen"
+    },
+    "specialities": [
+     "Café",
+     "Crèmerie",
+     "Pizzeria",
+     "Salés & sucrés",
+     "Jus de fruits",
+     "Tlemcen · Bd Pasteur"
+    ],
+    "menu": {
+     "note": "La carte détaillée et les tarifs ne sont pas encore publiés en ligne : demandez à l’équipe ou appelez-nous.",
+     "currency": "DA",
+     "categories": [
+      {
+       "id": "sales",
+       "title": "Les salés",
+       "desc": "Pizzeria : des pizzas garnies, servies sur planche de bois, et d’autres plats salés.",
+       "items": [
+        {
+         "name": "ARTICLE DE TEST (fixture)",
+         "desc": "exemple non publié",
+         "price": "000"
+        }
+       ]
+      },
+      {
+       "id": "sucres",
+       "title": "Les sucrés",
+       "desc": "Crèmerie et pâtisserie : gâteaux, cakes et desserts au comptoir.",
+       "items": []
+      },
+      {
+       "id": "boissons",
+       "title": "Les boissons",
+       "desc": "Cafétéria : le café, et de grands verres de jus servis au comptoir.",
+       "items": []
+      }
+     ]
+    },
+    "hours": [
+     {
+      "day": "Samedi",
+      "open": "06:00",
+      "close": "00:00"
+     },
+     {
+      "day": "Dimanche",
+      "open": "06:00",
+      "close": "00:00"
+     },
+     {
+      "day": "Lundi",
+      "open": "06:00",
+      "close": "00:00"
+     },
+     {
+      "day": "Mardi",
+      "open": "06:00",
+      "close": "00:00"
+     },
+     {
+      "day": "Mercredi",
+      "open": "06:00",
+      "close": "00:00"
+     },
+     {
+      "day": "Jeudi",
+      "open": "06:00",
+      "close": "00:00"
+     },
+     {
+      "day": "Vendredi",
+      "open": "12:00",
+      "close": "00:00"
+     }
+    ],
+    "booking": {
+     "open": true,
+     "note": "Choisissez le jour, l’heure et le nombre de personnes : nous vous rappelons pour confirmer la table."
+    },
+    "reviews": [
+     {
+      "author": "Reda Lyes Rabah",
+      "text": "L'un des meilleurs café a Tlemcen , acceuil chaleureux, classe et sympa, avec une équipe très aimable et professionnel ! Je recommande vivement !"
+     },
+     {
+      "author": "muss maxi",
+      "text": "Excellente pizza. Personnel très accueillant service rapide, propreté et qualité. Bonne continuation"
+     },
+     {
+      "author": "Mail is",
+      "text": "Un café complet le meilleur de Tlemcen"
+     }
+    ],
+    "rating": {
+     "value": "4,3",
+     "count": "36"
+    },
+    "photos": {
+     "salle": {
+      "label": "Salle (photo du café)",
+      "alt": "La salle de Café Dib, étagères éclairées et comptoir à pâtisseries",
+      "src": ""
+     },
+     "comptoir": {
+      "label": "Comptoir (photo du café)",
+      "alt": "Le comptoir de Café Dib avec fruits et presse-jus",
+      "src": ""
+     },
+     "pizzas": {
+      "label": "Pizzas (photo du café)",
+      "alt": "Pizzas servies sur planche de bois à Café Dib",
+      "src": ""
+     },
+     "gateau": {
+      "label": "Gâteau (photo du café)",
+      "alt": "Gâteau au comptoir de Café Dib",
+      "src": ""
+     },
+     "jus-fruits": {
+      "label": "Jus de fruits (photo du café)",
+      "alt": "Boissons aux fruits servies à Café Dib",
+      "src": ""
+     },
+     "jus-rouges": {
+      "label": "Jus rouges (photo du café)",
+      "alt": "Deux grands verres de jus rouges au comptoir de Café Dib",
+      "src": ""
+     }
+    }
+   }
+  }
+ ],
+ "customers": [
+  {
+   "id": "c1",
+   "name": "Client Fictif A",
+   "phone": "0555 00 00 01",
+   "notes": null,
+   "created_at": "2026-10-14T10:00:00Z",
+   "requests": [
+    {
+     "kind": "reservation",
+     "status": "nouveau",
+     "guests": 4,
+     "created_at": "2026-10-14T10:00:00Z"
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "name": "Client Fictif B",
+   "phone": "0555 00 00 02",
+   "notes": "Note fictive",
+   "created_at": "2026-10-13T10:00:00Z",
+   "requests": [
+    {
+     "kind": "message",
+     "status": "confirmé",
+     "guests": null,
+     "created_at": "2026-10-13T10:00:00Z"
+    }
+   ]
+  }
+ ],
+ "requests": [
+  {
+   "id": 12,
+   "kind": "reservation",
+   "status": "nouveau",
+   "customer_id": "c1",
+   "name": "Client Fictif A",
+   "phone": "0555 00 00 01",
+   "email": null,
+   "day": "2026-10-17",
+   "at_time": "20:00",
+   "guests": 4,
+   "occasion": "En famille",
+   "message": "Fixture de test",
+   "created_at": "2026-10-14T10:00:00Z"
+  },
+  {
+   "id": 11,
+   "kind": "reservation",
+   "status": "confirmé",
+   "customer_id": "c1",
+   "name": "Client Fictif A",
+   "phone": "0555 00 00 01",
+   "email": null,
+   "day": "2026-10-18",
+   "at_time": "13:30",
+   "guests": 2,
+   "occasion": null,
+   "message": null,
+   "created_at": "2026-10-14T09:00:00Z"
+  },
+  {
+   "id": 10,
+   "kind": "message",
+   "status": "nouveau",
+   "customer_id": "c2",
+   "name": "Client Fictif B",
+   "phone": "0555 00 00 02",
+   "email": "fictif@example.com",
+   "day": null,
+   "at_time": null,
+   "guests": null,
+   "occasion": null,
+   "message": "Message fictif de test",
+   "created_at": "2026-10-13T10:00:00Z"
+  }
+ ],
+ "requests_daily": [
+  {
+   "day": "2026-10-14",
+   "total": 2,
+   "reservations": 2,
+   "guests": 6,
+   "messages": 0,
+   "honored": 0,
+   "cancelled": 0
+  },
+  {
+   "day": "2026-10-13",
+   "total": 1,
+   "reservations": 0,
+   "guests": 0,
+   "messages": 1,
+   "honored": 0,
+   "cancelled": 0
+  }
+ ]
+}
