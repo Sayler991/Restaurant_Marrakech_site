@@ -20,47 +20,186 @@
   "text2": "Couscous et tajines font la fierté de la maison, avec la hrira, la pastilla et le méchoui. Le couscous se commande la veille.",
   "quote": "Excellent traditional food, very tasty. Beautifully furnished, friendly atmosphere. Very clean."
  },
- "specialities": ["Hrira", "Pastilla", "Tajine l’ham", "Tajine hlou", "Couscous", "Méchoui", "Thé à la menthe", "Imama · Tlemcen"],
+ "specialities": [
+  "Hrira",
+  "Pastilla",
+  "Tajine l’ham",
+  "Tajine hlou",
+  "Couscous",
+  "Méchoui",
+  "Thé à la menthe",
+  "Imama · Tlemcen"
+ ],
  "menu": {
   "note": "Carte à venir : les tarifs détaillés seront publiés ici. En attendant, appelez-nous.",
   "currency": "DA",
   "categories": [
-   {"id": "entrees", "title": "Soupes & entrées", "desc": "Pour commencer : la hrira, la pastilla et des salades variées.", "items": [
-     {"name": "Hrira", "desc": "Soupe traditionnelle", "price": ""},
-     {"name": "Pastilla", "desc": "Feuilleté traditionnel", "price": ""},
-     {"name": "Salades variées", "desc": "", "price": ""}
-   ]},
-   {"id": "plats", "title": "Tajines & plats", "desc": "Les tajines et les grands plats de la maison.", "items": [
-     {"name": "Tajine l’ham", "desc": "Viande d’agneau et boulettes", "price": ""},
-     {"name": "Tajine hlou", "desc": "Tajine sucré", "price": ""},
-     {"name": "Foie mchermel", "desc": "", "price": ""},
-     {"name": "Méchoui", "desc": "", "price": ""},
-     {"name": "Couscous", "desc": "À commander la veille", "price": ""}
-   ]},
-   {"id": "the", "title": "Thé & boissons", "desc": "Pour finir le repas : le thé à la menthe.", "items": [
-     {"name": "Thé à la menthe", "desc": "", "price": ""},
-     {"name": "Cocktails de fruits", "desc": "Sans alcool", "price": ""}
-   ]}
-  ]
+   {
+    "id": "entrees",
+    "title": "Soupes & entrées",
+    "desc": "Pour commencer : la hrira, la pastilla et des salades variées.",
+    "items": [
+     {
+      "name": "Hrira",
+      "desc": "Soupe traditionnelle",
+      "price": ""
+     },
+     {
+      "name": "Bourek",
+      "desc": "Feuilleté farci à la viande",
+      "price": ""
+     },
+     {
+      "name": "Pastilla",
+      "desc": "Feuilleté traditionnel",
+      "price": ""
+     },
+     {
+      "name": "Salades variées",
+      "desc": "",
+      "price": ""
+     }
+    ]
+   },
+   {
+    "id": "plats",
+    "title": "Tajines & plats",
+    "desc": "Les tajines et les grands plats de la maison.",
+    "items": [
+     {
+      "name": "Tajine l’ham",
+      "desc": "Viande d’agneau et boulettes",
+      "price": ""
+     },
+     {
+      "name": "Tajine hlou",
+      "desc": "Tajine sucré",
+      "price": ""
+     },
+     {
+      "name": "Brochettes",
+      "desc": "",
+      "price": ""
+     },
+     {
+      "name": "Tajine de boulettes aux olives",
+      "desc": "",
+      "price": ""
+     },
+     {
+      "name": "Tajine aux pruneaux & amandes",
+      "desc": "",
+      "price": ""
+     },
+     {
+      "name": "Foie mchermel",
+      "desc": "",
+      "price": ""
+     },
+     {
+      "name": "Méchoui",
+      "desc": "",
+      "price": ""
+     },
+     {
+      "name": "Couscous",
+      "desc": "À commander la veille",
+      "price": ""
+     }
+    ]
+   },
+   {
+    "id": "the",
+    "title": "Thé & boissons",
+    "desc": "Pour finir le repas : le thé à la menthe.",
+    "items": [
+     {
+      "name": "Thé à la menthe",
+      "desc": "",
+      "price": ""
+     },
+     {
+      "name": "Cocktails de fruits",
+      "desc": "Sans alcool",
+      "price": ""
+     }
+    ]
+   }
+  ],
+  "source": "Plats cités par Petit Futé, Tripadvisor et les avis Google, ou vus sur les photos clients Google Maps. Aucune carte avec prix publiée en ligne."
  },
  "hours": [
-  {"day": "Samedi", "open": "11:00", "close": "16:30", "open2": "18:00", "close2": "23:30"},
-  {"day": "Dimanche", "open": "11:00", "close": "16:30", "open2": "18:00", "close2": "23:30"},
-  {"day": "Lundi", "open": "11:00", "close": "16:30", "open2": "18:00", "close2": "23:30"},
-  {"day": "Mardi", "open": "11:00", "close": "16:30", "open2": "18:00", "close2": "23:30"},
-  {"day": "Mercredi", "open": "11:00", "close": "16:30", "open2": "18:00", "close2": "23:00"},
-  {"day": "Jeudi", "open": "11:00", "close": "16:30", "open2": "18:00", "close2": "00:00"},
-  {"day": "Vendredi", "open": "", "close": "", "open2": "18:00", "close2": "23:30"}
+  {
+   "day": "Samedi",
+   "open": "11:00",
+   "close": "16:30",
+   "open2": "18:00",
+   "close2": "23:30"
+  },
+  {
+   "day": "Dimanche",
+   "open": "11:00",
+   "close": "16:30",
+   "open2": "18:00",
+   "close2": "23:30"
+  },
+  {
+   "day": "Lundi",
+   "open": "11:00",
+   "close": "16:30",
+   "open2": "18:00",
+   "close2": "23:30"
+  },
+  {
+   "day": "Mardi",
+   "open": "11:00",
+   "close": "16:30",
+   "open2": "18:00",
+   "close2": "23:30"
+  },
+  {
+   "day": "Mercredi",
+   "open": "11:00",
+   "close": "16:30",
+   "open2": "18:00",
+   "close2": "23:00"
+  },
+  {
+   "day": "Jeudi",
+   "open": "11:00",
+   "close": "16:30",
+   "open2": "18:00",
+   "close2": "00:00"
+  },
+  {
+   "day": "Vendredi",
+   "open": "",
+   "close": "",
+   "open2": "18:00",
+   "close2": "23:30"
+  }
  ],
  "booking": {
   "open": true,
   "note": "Choisissez le jour, le service et le nombre de couverts : nous vous rappelons pour confirmer. Pour un couscous, réservez la veille."
  },
  "reviews": [
-  {"author": "Avis Google · 2024", "text": "The receptionists and servers are super friendly. The atmosphere is incredible; the restaurant is so beautiful. The food is so delicious. 100% recommended."},
-  {"author": "Avis Google · 2023", "text": "Beautifully decorated restaurant and good atmosphere to have a nice quiet dinner. The staff is extremely friendly. I really liked their bastilla and tajine hlou."},
-  {"author": "Avis Google · 2025", "text": "Beautiful atmosphere, delicious food and brilliant service. Perfect place to have a bite of traditional food."}
+  {
+   "author": "Avis Google · 2024",
+   "text": "The receptionists and servers are super friendly. The atmosphere is incredible; the restaurant is so beautiful. The food is so delicious. 100% recommended."
+  },
+  {
+   "author": "Avis Google · 2023",
+   "text": "Beautifully decorated restaurant and good atmosphere to have a nice quiet dinner. The staff is extremely friendly. I really liked their bastilla and tajine hlou."
+  },
+  {
+   "author": "Avis Google · 2025",
+   "text": "Beautiful atmosphere, delicious food and brilliant service. Perfect place to have a bite of traditional food."
+  }
  ],
- "rating": {"value": "4,0", "count": "725"},
+ "rating": {
+  "value": "4,0",
+  "count": "762"
+ },
  "photos": {}
 }

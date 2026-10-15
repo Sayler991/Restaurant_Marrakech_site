@@ -9,7 +9,7 @@ Site vitrine d'une page avec tableau de bord pour le **Restaurant Marrakech** (7
 ## Faits réels utilisés (sources publiques, relevées le 15/10/2026)
 - **Fiche Google** (miroir exa.ai/library/place/8hchth61170) :
   - adresse ; GPS 34.878824, -1.342188 ; téléphone +213 674 82 27 11 ;
-  - horaires midi et soir ; **4,0/5 sur 725 avis** ;
+  - horaires midi et soir ; **4,0/5 sur 762 avis** ;
   - Facebook https://facebook.com/1838022142909638 ;
   - 3 avis cités tels quels (en anglais), datés.
 - **Petit Futé** : « cuisine traditionnelle algérienne », couscous, tajines, méchoui, hrira ; couscous à commander la veille ; décor d'arabesques dorées ; 2 500–3 500 DA le repas complet.
@@ -62,3 +62,7 @@ Projet `rvreusugrtiubqtafgbk`, schéma **`marrakech`** :
 ```
 node tools/e2e/e2e.js https://sayler991.github.io/Restaurant_Marrakech_site/ /workspace/marrakech_shots/
 ```
+
+## v2 (16/10/2026) — vraies photos
+État précédent : tags `v1` (main) et `v1-gh-pages`. Note Google mise à jour : 4,0/5 sur 762 avis. Carte : ajout Bourek, Brochettes, Tajine aux pruneaux & amandes, Tajine de boulettes aux olives (vus sur les photos clients), sans prix — aucune carte avec prix trouvée (Petit Futé, Tripadvisor, TripTap, WinNaklou, exa.ai).
+Photos clients Google Maps (`/workspace/marrakech_real/gm_*`) converties en WebP + AVIF 800 + pleine taille (fichiers `-1600`, plafonnés à la taille source) : hero = salle (puis porte, tajine pruneaux, tablée) ; « La maison » = salle + porte ; carte = hrira (soupes & entrées), tajine pruneaux (tajines) ; galerie = salle, porte, bourek, brochettes, tajine boulettes, tablée. Restent en illustration libre : the-plateau (onglet Thé), the-service (bandeau + réservation).
